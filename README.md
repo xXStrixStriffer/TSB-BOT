@@ -1,1 +1,1 @@
-# TSB-BOT
+[![Run on Repl.it](https://repl.it/badge/github/xXStrixStriffer/TSB-BOT)](https://repl.it/github/xXStrixStriffer/TSB-BOT)
